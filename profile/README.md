@@ -16,7 +16,10 @@ Use the [Base][9] The new theme _is_ the project, git wise.
 
 # Creating a new repository
 
-Make sure to **add the** correct **topic**. The basic topics we use.
+**[➡️Click here](https://github.com/organizations/webfundament/repositories/new)**  
+Make sure to **add the** correct **topic** after creating the repository.
+It is in the _About⚙️_ settings in the right sidebar, after pushing code. Yeah it's annoying.
+The basic topics we use.
 
  - [wp-theme][1]
  - [wp-plugin][4]
