@@ -15,7 +15,7 @@ Use the [Base][9] and follow the instructions.
 
 # Creating a new repository
 
-**[➡️ Click here](https://github.com/organizations/webfundament/repositories/new)**  
+**[➡️ Click here](https://github.com/organizations/moetiknaardedokter/repositories/new)**  
 Make sure to **add the** correct **topic** after creating the repository.
 It is in the _About ⚙️_ settings in the right sidebar, after pushing code. Yeah it's annoying.
 The basic topics we use.
@@ -28,12 +28,12 @@ The basic topics we use.
 Other topics might apply, more than one topic is allowed. 
 
 
-[1]: https://github.com/search?q=org%3Awebfundament+topic%3Awp-theme        "All theme repos"
-[2]: https://github.com/webfundament/base-hap-theme/
-[4]: https://github.com/search?q=org%3Awebfundament+topic%3Awp-plugin       "All Plugin repos"
-[5]: https://github.com/webfundament/premium-plugins-pile
-[6]: https://github.com/search?q=org%3Awebfundament+topic%3Awp-block        "All Blocks"
-[7]: https://github.com/search?q=org%3Awebfundament+topic%3Adevops-tools    "All Devop tools"
-[8]: https://github.com/webfundament/silo
-[9]: https://github.com/webfundament/base
+[1]: https://github.com/search?q=org%3Amoetiknaardedokter+topic%3Awp-theme        "All theme repos"
+[2]: https://github.com/moetiknaardedokter/hap-base-theme/
+[4]: https://github.com/search?q=org%3Amoetiknaardedokter+topic%3Awp-plugin       "All Plugin repos"
+[5]: https://github.com/moetiknaardedokter/premium-plugins-pile
+[6]: https://github.com/search?q=org%3Amoetiknaardedokter+topic%3Awp-block        "All Blocks"
+[7]: https://github.com/search?q=org%3Amoetiknaardedokter+topic%3Adevops-tools    "All Devop tools"
+[8]: https://github.com/moetiknaardedokter/silo
+[9]: https://github.com/moetiknaardedokter/base
 
