@@ -2,6 +2,7 @@
 
 - All Themes
     - [Base hap theme][2]. The new theme for HAP sites.
+    - [Base werkenbij theme][3]. The new theme for Werkenbij sites.
 - All [Plugins][4]
   - [Premium Plugin Pile][5]. Hold the premium plugins
 - All [Blocks][6]. Usually in a plugin.
@@ -30,6 +31,7 @@ Other topics might apply, more than one topic is allowed.
 
 [1]: https://github.com/search?q=org%3Amoetiknaardedokter+topic%3Awp-theme        "All theme repos"
 [2]: https://github.com/moetiknaardedokter/hap-base-theme/
+[3]: https://github.com/moetiknaardedokter/werkenbij-base-theme/
 [4]: https://github.com/search?q=org%3Amoetiknaardedokter+topic%3Awp-plugin       "All Plugin repos"
 [5]: https://github.com/moetiknaardedokter/premium-plugins-pile
 [6]: https://github.com/search?q=org%3Amoetiknaardedokter+topic%3Awp-block        "All Blocks"
