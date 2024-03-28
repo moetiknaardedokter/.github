@@ -3,6 +3,7 @@
 - All Themes
     - [Base hap theme][2]. The new theme for HAP sites.
     - [Base werkenbij theme][3]. The new theme for Werkenbij sites.
+    - [Base mindd theme][10]. The new theme for the MINDD site.
 - All [Plugins][4]
   - [Premium Plugin Pile][5]. Hold the premium plugins
 - All [Blocks][6]. Usually in a plugin.
@@ -38,4 +39,4 @@ Other topics might apply, more than one topic is allowed.
 [7]: https://github.com/search?q=org%3Amoetiknaardedokter+topic%3Adevops-tools    "All Devop tools"
 [8]: https://github.com/moetiknaardedokter/silo
 [9]: https://github.com/moetiknaardedokter/base
-
+[10]: https://github.com/moetiknaardedokter/mindd-base-theme/
